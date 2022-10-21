@@ -1,0 +1,72 @@
+.inner-header{
+    background-color: #101010;
+}
+
+.logo{
+    background-color: #101010;
+    color: white;
+    text-align: left;
+    position: absolute;
+    padding-left: 25;
+    padding-top: 3;
+}
+
+.navigation{
+    float:top;
+    height: 10%;
+    background-color: #101010;
+}
+
+.navigation a{
+    display: table;
+    float: right;
+    padding: 0px 20px;
+    background-color: #101010;
+}
+
+.navigation a li{
+    display: table-cell;
+    font-size: 20px;
+    color: white;
+    padding-top: 30;
+}
+
+.navigation a:link{
+    text-decoration: none;
+}
+
+.navigation a:visited{
+    text-decoration: none;
+}
+
+.navigation a:hover{
+    color: #101010;
+    height: 100%;
+    background-color: gray;
+    text-decoration: none;
+}
+
+.navigation a:active{
+    text-decoration: none;
+}
+
+.content{
+    padding-top: 15;
+    margin: auto;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: larger;
+}
+
+.content p{
+    text-align: justify;
+}
+
+.title{
+    float: center;
+    text-align: center;
+}
+
+.image{
+    float: left;
+}
